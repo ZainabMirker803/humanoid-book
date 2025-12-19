@@ -21,7 +21,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            ramila Tutorial - 5min ⏱️
+            Made By Zainab Mirker
           </Link>
         </div>
       </div>
